@@ -102,7 +102,6 @@ spring.datasource.password=tu_contraseña
 - Java 17 o superior
 - Maven 3.6 o superior (o usar Maven Wrapper incluido)
 - MySQL 8.0 o superior
-- Node.js 18+ y npm (para el frontend)
 
 ### Pasos para Ejecutar
 
@@ -214,4 +213,3 @@ Desarrollado como parte del programa **Análisis y Desarrollo de Software del SE
 
 **Instructor**: Jesús Ropero Barbosa  
 **Email**: jropero@sena.edu.co
-
